@@ -1,2 +1,2 @@
 # responsiveDesign
-Simple responsive web design
+Simple responsive web site example

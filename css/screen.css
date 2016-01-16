@@ -227,3 +227,23 @@ section.how-to blockquote p.credit::before {
 	left: 0px;
 }
 
+/* Section - footer; */
+footer {
+	font-size: .8em;
+	margin: 40px;
+	color: #999;
+}
+footer .content {
+	display: inline;
+}
+footer .content a {
+	margin-left: 30px;
+	color: #777;
+}
+footer .content a:visited {
+	color: #777;
+}
+footer .content a:hover {
+	color: #000;
+}
+

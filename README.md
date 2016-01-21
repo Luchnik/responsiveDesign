@@ -1,2 +1,2 @@
 # responsiveDesign
-Simple responsive web site example
+Simple responsive web site example with ability to print the page nicely
